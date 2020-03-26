@@ -4,8 +4,6 @@ Docker Github Actions Runner
 
 ## Description ##
 
-This will run the [new self-hosted github actions runners](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/hosting-your-own-runners).
-
 The original project by @myoung34 focuses on a minimal installation of tools. There the guiding principle is to create 
 the most basic docker image necessary to run GitHub actions. The advantage to following that principle is that [developers 
 can then declare and configure their tools as they see fit](https://github.com/myoung34/docker-github-actions-runner/pull/6#issuecomment-584785114), 
