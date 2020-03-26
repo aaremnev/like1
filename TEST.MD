@@ -1,10 +1,6 @@
 Docker Github Actions Runner
 ============================
 
-![Deploy - GitHub Actions Runner in Docker](https://github.com/terradatum/github-runner/workflows/GitHub%20Actions%20Runner%20in%20Docker%20-%20Latest/badge.svg)
-[![Docker Pulls](https://img.shields.io/docker/pulls/terradatum/github-runner)](https://hub.docker.com/r/terradatum/github-runner)
-
-Originally found at [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) with ideas from [tcardonne/docker-github-runner](https://github.com/tcardonne/docker-github-runner).
 
 ## Description ##
 
